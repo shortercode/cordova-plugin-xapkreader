@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-xapkreader",
-  "version": "1.0.0",
+  "name": "construct-android-expansion",
+  "version": "0.0.1",
   "description": "This plugin simplifies the use of Google Play APK expansion file in your Cordova app.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agamemnus/cordova-plugin-xapkreader.git#cordova-6.5"
+    "url": "git+https://github.com/shortercode/cordova-plugin-xapkreader/tree/cordova-6.5.0"
   },
   "keywords": [
     "expansion"
@@ -16,7 +16,7 @@
   "author": "agamemnus",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/agamemnus/cordova-plugin-xapkreader/issues"
+    "url": "https://github.com/shortercode/cordova-plugin-xapkreader/issues"
   },
-  "homepage": "https://github.com/agamemnus/cordova-plugin-xapkreader/blob/cordova-6.5.0/README.md"
+  "homepage": "https://github.com/shortercode/cordova-plugin-xapkreader/tree/cordova-6.5.0"
 }
